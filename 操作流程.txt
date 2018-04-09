@@ -1,0 +1,10 @@
+$ git init   //git 初始化  $可以不要
+$ git add index.html  //提交单个文件到暂存区
+$ git add .    //提交全部文件到暂存区
+$ git commit -m "新增一个文件,这里是注释"  //将文件推送到分支
+$ git log  //查看修改日志
+$ git remote add origin git@github.com:SomeoneSmile/gg.git //需要推送的远程地址
+$ git push origin master //将本地分支的文件推送到远程分支
+$ ssh-keygen -t rsa -C "1028382629@qq.com"  //找到C:\Users\10283\.ssh 下敲这行代码,意思是获取公钥
+
+
