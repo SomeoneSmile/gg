@@ -1,0 +1,58 @@
+
+.p-bg{
+    background-position: top center;
+    background-repeat:no-repeat;
+}
+.boldRed{
+    font-weight: bold;
+    color: #e5402a;
+}
+.boldBlack{
+    font-weight: bold;
+    color: #000;
+}
+.mBottom{
+    margin-bottom:35px;
+}
+.normal{
+    color: #333;
+}
+.bgRgba0-5{
+    background-color: rgba(255,255,255,.7);
+}
+.scale{
+    transform: scale(0) !important;
+}
+.block{
+    display: block !important;
+}
+.none{
+    display: none !important;
+}
+.r-none{
+    border-right: none !important;
+}
+/*底部公共样式*/
+
+#footer .footer-info .top-info{
+    height: 48px;
+}
+#footer .footer-info .top-info>div{
+    float: left;
+    height: 100%;
+}
+#footer .footer-info .top-info .l-img{
+    width: 300px;
+}
+#footer .footer-info .top-info .l-img img{
+    display: inline-block;
+    margin-top: 8px;
+}
+#footer .footer-info .top-info .r-txt{
+    width: 479px;
+    line-height:24px;
+}
+#footer .info-bot{
+    padding-top: 10px;
+    height: 86px;
+}
